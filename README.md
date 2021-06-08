@@ -1,1 +1,1 @@
-The alx-zero_day project description
+I'm now a ALX Student, this is my first repository as a full-stack engineer
