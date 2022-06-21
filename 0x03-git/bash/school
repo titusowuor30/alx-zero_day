@@ -1,2 +1,11 @@
-#!/bin/bash
+<<<<<<< HEAD
+#!bin/bash
 echo "The school is open!"
+=======
+#!/bin/bash
+<<<<<<< HEAD
+echo "The school is open!"
+=======
+echo "School"
+>>>>>>> master
+>>>>>>> update_script
